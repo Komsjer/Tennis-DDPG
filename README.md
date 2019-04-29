@@ -1,6 +1,8 @@
 # REACHER DDPG 
 This project is an assignment from the Udacity Deep Reinforcement Learning course. [p3_continuous-control](https://github.com/udacity/deep-reinforcement-learning/tree/master/p3_collab-compet) found [here](https://github.com/udacity/deep-reinforcement-learning#dependencies). The objective is to train the tennis agents to keep the ball in play for as long as possible. the environment is considered solved if the agents reach an average score of +0.5 over 100 episodes. The score is measured by taking the highest score over the two agents.
 
+![alt text](https://github.com/Komsjer/Tennis-DDPG/blob/master/images/Tennis.png "Tennis game")
+
 ## Enviroment
 
 ##### Observation
